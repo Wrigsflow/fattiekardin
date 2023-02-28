@@ -9,7 +9,7 @@ local entity = Spawner.createEntity({
     Model = "https://github.com/Wrigsflow/kiki/blob/main/kardin%20hong.rbxm?raw=true", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
     Speed = 70,
     MoveDelay = 2,
-    HeightOffset = 0,
+    HeightOffset = 2,
     CanKill = false,
     KillRange = 50,
     SpawnInFront = true,
